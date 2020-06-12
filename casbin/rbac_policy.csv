@@ -1,4 +1,0 @@
-p,abc123,/user,GET //用户abc123对/user有GET权限，下面同理
-p,abc123,/user,POST
-p,admin,/test,* //角色或用户组admin对/test有所有权限
-g,super_admin,admin //用户super_admin属于admin组或角色
